@@ -1,0 +1,6 @@
+parameters:
+    paths:
+        - src
+    parallel:
+        processTimeout: 300.0
+    level: 5
